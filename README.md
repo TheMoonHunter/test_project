@@ -1,1 +1,1 @@
-# test_project
+This is a script to download and parse the given XML feed, manipulate some of the data, and deliver a CSV with specific fields.
